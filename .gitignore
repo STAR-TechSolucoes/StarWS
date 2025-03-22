@@ -1,6 +1,16 @@
 # Compiled class file
 *.class
 
+# Ignorar arquivos de configuração do Eclipse/STS
+.metadata/
+.classpath
+.project
+.settings/
+*.log
+*.bak
+*.tmp
+*.swp
+
 # Log file
 *.log
 
