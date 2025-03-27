@@ -1,0 +1,7 @@
+com\example\startzinho\dto\TabelaDTO.class
+com\example\startzinho\mapper\TabelaMapper.class
+com\example\startzinho\service\TabelaService.class
+com\example\startzinho\repository\TabelaRepository.class
+com\example\startzinho\controllers\TesteController.class
+com\example\startzinho\model\Tabela.class
+com\example\startzinho\StartzinhoApplication.class

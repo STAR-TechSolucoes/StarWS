@@ -10,6 +10,8 @@
 *.bak
 *.tmp
 *.swp
+apache-maven-3.9.9/
+
 
 # Log file
 *.log
@@ -21,7 +23,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear

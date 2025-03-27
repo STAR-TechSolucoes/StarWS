@@ -11,6 +11,6 @@ public interface TabelaRepository extends JpaRepository<Tabela, Long> {
 
 	List<Tabela> findAll();
 	
-	Optional<Tabela> findById();
+	Optional<Tabela> findById(Long pk);
 	
 }
